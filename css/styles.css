@@ -1,7 +1,6 @@
 body {
   background: #fff;
-  color: #434455
-
+  color: #434455;
   font-family: "Roboto", sans-serif;
 }
 
@@ -11,7 +10,7 @@ ul {
 
 .logo {
   color: #4D5AE5;
-  font-family: Raleway;
+  font-family: "Raleway", sans-serif;
   font-size: 18px;
   font-style: normal;
   font-weight: 700;
@@ -104,7 +103,7 @@ letter-spacing: 0.02em;
 .company-targets-descr {
   color: #434455;
 font-size: 16px;
-line-height: 1.2;
+line-height: 1.5;
 letter-spacing: 0.02em;
 }
 
