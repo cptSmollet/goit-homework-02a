@@ -9,7 +9,7 @@ ul {
 }
 
 .logo {
-  color: #4D5AE5;
+  color: #4d5ae5;
   font-family: "Raleway", sans-serif;
   font-size: 18px;
   font-style: normal;
@@ -17,20 +17,19 @@ ul {
   line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
-
 }
 
 .logo-span {
-  color: #2E2F42;
+  color: #2e2f42;
 }
 
 .page-nav {
-  color: #2E2F42;
-font-size: 16px;
-font-style: normal;
-font-weight: 500;
-line-height: 1.5;
-letter-spacing: 0.02em;
+  color: #2e2f42;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
 }
 
 .page-nav:hover {
@@ -42,14 +41,14 @@ letter-spacing: 0.02em;
 }
 
 .contacts {
-font-style: normal;
+  font-style: normal;
 }
 
 .contact-adrs {
   color: #434455;
-font-size: 16px;
-line-height: 1.5;
-letter-spacing: 0.02em;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
 }
 
 .contact-adrs:hover {
@@ -66,102 +65,102 @@ letter-spacing: 0.02em;
 
 .title-text {
   color: #fff;
-text-align: center;
-font-size: 56px;
-font-style: normal;
-line-height: 1.07;
-letter-spacing: 0.02em;
+  text-align: center;
+  font-size: 56px;
+  font-style: normal;
+  line-height: 1.07;
+  letter-spacing: 0.02em;
 }
 
 .button {
-  background-color: #4D5AE5;
+  background-color: #4d5ae5;
   font-family: "Roboto", sans-serif;
-font-size: 16px;
-font-weight: 500;
-line-height: 1.5;
-letter-spacing: 0.04em;
-color: #ffffff;
-cursor: pointer;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: #ffffff;
+  cursor: pointer;
 }
 
 .button:hover {
-  background-color: #404BBF;
+  background-color: #404bbf;
 }
 
 .button:focus {
-  background-color: #404BBF;
+  background-color: #404bbf;
 }
 
 .company-targets {
-  color: #2E2F42;
-font-size: 20px;
-font-weight: 500;
-line-height: 1.2;
-letter-spacing: 0.02em;
+  color: #2e2f42;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
 }
 
 .company-targets-descr {
   color: #434455;
-font-size: 16px;
-line-height: 1.5;
-letter-spacing: 0.02em;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
 }
 
 .team-section {
-  background-color: #F4F4FD;
+  background-color: #f4f4fd;
 }
 
 .team-title {
-  color: #2E2F42;
-text-align: center;
-font-size: 36px;
-line-height: 1.11;
-letter-spacing: 0.02em;
-text-transform: capitalize;
+  color: #2e2f42;
+  text-align: center;
+  font-size: 36px;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
 }
 
 .team-member {
-  background-color: #FFFFFF;
+  background-color: #ffffff;
 }
 
 .member-title {
-  color: #2E2F42;
-font-family: Roboto;
-font-size: 20px;
-font-weight: 500;
-line-height: 1.2;
-letter-spacing: 0.02em;
+  color: #2e2f42;
+  font-family: Roboto;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
 }
 
 .member-descr {
   color: #434455;
-font-size: 16px;
-line-height: 1.5;
-letter-spacing: 0.02em;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
 }
 
 .portfolio-title {
-  color: #2E2F42;
-text-align: center;
-font-size: 36px;
-line-height: 1.11;
-letter-spacing: 0.02em;
-text-transform: capitalize;
+  color: #2e2f42;
+  text-align: center;
+  font-size: 36px;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
 }
 
 .portfolio-item {
-  color: #2E2F42
-font-size: 20px;
-font-weight: 500;
-line-height: 1.2;
-letter-spacing: 0.02em;
+  color: #2e2f42;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
 }
 
 .portfolio-item-descr {
   color: #434455;
-font-size: 16px;
-line-height: 1.5;
-letter-spacing: 0.02em;;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
 }
 
 .footer-class {
@@ -170,21 +169,21 @@ letter-spacing: 0.02em;;
 
 .logo-dark {
   font-family: "Raleway", sans-serif;
-  color: #4D5AE5;
-font-size: 18px;
-font-weight: 700;
-line-height: 1.17;
-letter-spacing: 0.03em;
-text-transform: uppercase;
+  color: #4d5ae5;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
 }
 
 .logo-span-dark {
-  color: #F4F4FD;
+  color: #f4f4fd;
 }
 
 .footer-descr {
-  color: #F4F4FD;
-font-size: 16px;
-line-height: 1.5;
-letter-spacing: 0.02em;
+  color: #f4f4fd;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
 }
